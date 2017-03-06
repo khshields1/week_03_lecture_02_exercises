@@ -1,0 +1,14 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100rem;
+  background-color: white;
+}
+
+.box {
+  display: inline-block;
+  width: 50%;
+  height: 200px;
+  background-color: red;
+}
